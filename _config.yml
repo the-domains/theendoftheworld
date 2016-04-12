@@ -1,0 +1,28 @@
+name: TheEndOfTheWorld
+favicon: null
+layout_spectrum: 0.5377429192885756
+typography_spectrum: 0.47390428744256496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4245283263735473
+  lightness: 0.13169255247339606
+  saturation: 0.36758733564056456
+  rhythmicContrast: 0.5798688312061131
+purpose: []
